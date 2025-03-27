@@ -70,8 +70,12 @@ html {
 }
 
 .header__footer {
+  margin-top: auto;
+  width: 50%;
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: flex-end;
+  box-sizing: border-box;
 }
 
 .header__link {
