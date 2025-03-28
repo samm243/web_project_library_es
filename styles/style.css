@@ -92,6 +92,9 @@ html {
 
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   padding: 100px 0 140px;
 }
 
@@ -115,7 +118,7 @@ html {
 
 .staff__cards {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 40px auto 0;
   list-style-type: none;
   justify-content: center;
   flex-wrap: wrap;
@@ -129,8 +132,8 @@ html {
   border-radius: 6px;
   padding: 32px 40px 20px 32px;
   box-sizing: border-box;
-  width: 100%;
-  max-width: 360px;
+  width: 360px;
+  height: 420px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   text-align: left;
   display: flex;
@@ -151,9 +154,10 @@ html {
 }
 
 .card__text {
-  margin: 20px 0 20px;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 22px;
+  margin-bottom: 20px;
+  color: #000000;
 }
 
 .card__footer {
