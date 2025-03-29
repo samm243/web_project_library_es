@@ -268,14 +268,14 @@ html {
 
 .person_name_mitchell {
   position: absolute;
-  bottom: 20px;
-  left: 20px;
+  bottom: 120px;
+  left: 100px;
 }
 
 .person_name_tarter {
   position: absolute;
-  top: 40px;
-  right: 95px;
+  top: 100px;
+  left: 160px;
 }
 
 .person__image {
