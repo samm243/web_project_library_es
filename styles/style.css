@@ -254,16 +254,16 @@ html {
   right: 319px;
 }
 
-.person_name_tarter {
-  position: absolute;
-  top: 159px;
-  right: 79px;
-}
-
 .person_name_burbidge {
   position: absolute;
   top: 96px;
   right: 125px;
+}
+
+.person_name_cannon {
+  position: absolute;
+  bottom: 18px;
+  right: 216px;
 }
 
 .person_name_mitchell {
@@ -272,10 +272,10 @@ html {
   left: 82px;
 }
 
-.person_name_cannon {
+.person_name_tarter {
   position: absolute;
-  bottom: 18px;
-  right: 216px;
+  top: 159px;
+  right: 79px;
 }
 
 .person__image {
