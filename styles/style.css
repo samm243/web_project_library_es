@@ -251,7 +251,7 @@ html {
 .person_name_feynman {
   position: absolute;
   top: -30px;
-  right: 319px;
+  left: 319px;
 }
 
 .person_name_burbidge {
@@ -275,7 +275,7 @@ html {
 .person_name_tarter {
   position: absolute;
   top: 159px;
-  right: 79px;
+  left: 79px;
 }
 
 .person__image {
