@@ -360,9 +360,11 @@ html {
 }
 
 .footer__column_content_hours {
+  /* Styles specific to the hours column can go here later */
 }
 
 .footer__column_content_social {
+  /* Styles specific to the social column can go here later */
 }
 
 .footer__logo {
