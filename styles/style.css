@@ -346,28 +346,28 @@ html {
 }
 
 .footer {
+  margin: 60px 80px;
   box-sizing: border-box;
   background-color: #1f1f1f;
 }
 
 .footer__columns {
   margin: 0 auto;
-  padding: 40px 20px;
+
   display: flex;
   gap: 80px;
-  justify-content: space-between;
 }
 
 .footer__column_content_hours {
-  margin-top: 60px;
-  margin-top: 60px;
+  margin-left: 80px;
 }
 
 .footer__column_content_social {
-  margin-top: 60px;
+  margin-left: 0;
 }
 
 .footer__logo {
+  margin-right: 100px;
   width: 58px;
   height: 80px;
 }
@@ -405,7 +405,6 @@ html {
 }
 
 .footer__copyright {
-  margin-top: 60px;
+  margin-top: 100px;
   justify-content: center;
-  margin-bottom: 60px;
 }
