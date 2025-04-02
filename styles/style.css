@@ -348,7 +348,7 @@ html {
 .footer {
   padding: 60px 80px;
   box-sizing: border-box;
-  background-color: #1f1f1f;
+  background-color: #fff;
 }
 
 .footer__columns {
@@ -388,7 +388,7 @@ html {
 .footer__list-item {
   margin-bottom: 20px;
   font-size: 10px;
-  color: #fff;
+  color: #ffffff;
 }
 
 .footer__list-item:last-child {
